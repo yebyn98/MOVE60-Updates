@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "20.0",
+  "versionCode": 21,
+  "versionName": "21.0",
   "apkUrl": "https://raw.githubusercontent.com/yebyn98/MOVE60-Updates/main/MOVE60-latest.apk",
-  "sha256": "a484c2d23e1c42d050d0647f77f018e6aa328cda1e9a27328e7152dea39648a5",
+  "sha256": "8cf72c1da1d1fe69819f45fe7e28f06b2cd8e8b82131af371351aba2f8a84437",
   "watchApkUrl": "https://raw.githubusercontent.com/yebyn98/MOVE60-Updates/main/MOVE60-Watch4-latest.apk",
-  "watchSha256": "ec3e5a81420c82708b95e8f34559aac8352e1224da6d198dcc9ec49cb1d1ec9e"
+  "watchSha256": "ff4e8c43aac79e1317c71b59a15de9b68d604419da3b9761cafc1d63173430c5"
 }
