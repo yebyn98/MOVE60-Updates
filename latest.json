@@ -1,14 +1,14 @@
 {
-  "versionCode": 55,
-  "versionName": "55.0",
+  "versionCode": 56,
+  "versionName": "56.0",
   "apkUrl": "https://raw.githubusercontent.com/yebyn98/MOVE60-Updates/main/MOVE60-latest.apk",
-  "sha256": "90eca2ed74ed55e387cba38babd08c98ba98b2e96342633487651cc502ce86c4",
+  "sha256": "dcb17b4acb9cb08101170435cf238cc5262932c381f66c19be5c05fac37b88c1",
   "watchApkUrl": "https://raw.githubusercontent.com/yebyn98/MOVE60-Updates/main/MOVE60-Watch4-latest.apk",
-  "watchSha256": "21ed4ab50c322fca42ff7e451ada32cab37b70f8e1e69d201611813a5fce7920",
-  "sourceCommit": "1bc9593a73fe1bd07ef6902eb34724aa62b9c731",
-  "validationRun": "https://github.com/yebyn98/MOVE60-Android/actions/runs/42460952577",
-  "watchVersionCode": 49,
-  "watchVersionName": "49.0",
-  "watchSourceCommit": "1bc9593a73fe1bd07ef6902eb34724aa62b9c731",
-  "watchValidationRun": "https://github.com/yebyn98/MOVE60-Android/actions/runs/42460952577"
+  "watchSha256": "e945f29cb39ece281c6f8e26291c9b7a01948c947bc49c3a474b473dc3c2de32",
+  "sourceCommit": "1ffa432d95f91e16f36f58d53d2b0d61f69c2fe1",
+  "validationRun": "https://github.com/yebyn98/MOVE60-Android/actions/runs/42462589257",
+  "watchVersionCode": 50,
+  "watchVersionName": "50.0",
+  "watchSourceCommit": "1ffa432d95f91e16f36f58d53d2b0d61f69c2fe1",
+  "watchValidationRun": "https://github.com/yebyn98/MOVE60-Android/actions/runs/42462589257"
 }
